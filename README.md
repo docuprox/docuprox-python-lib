@@ -5,7 +5,7 @@ A Python package to interact with the DocuProx API for processing documents usin
 ## Installation
 
 ```bash
-pip install .
+pip install docuprox
 ```
 
 ## Configuration
