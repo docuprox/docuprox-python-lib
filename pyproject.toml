@@ -25,9 +25,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/docuprox-package"
-Repository = "https://github.com/yourusername/docuprox-package.git"
-Issues = "https://github.com/yourusername/docuprox-package/issues"
+Homepage = "https://github.com/docuprox/docuprox-python-lib"
+Repository = "https://github.com/docuprox/docuprox-python-lib"
+Issues = "https://github.com/docuprox/docuprox-python-lib/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
